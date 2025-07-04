@@ -395,6 +395,45 @@ local prices = {
   [23558] = {24,"T2.5"}; --The Burrower's Shell
   [23570] = {80,"T2.5"}; --Jom Gabbar
 
+    -----------------------
+    --- Emerald Sanctum ---
+    -----------------------
+  [41076] = {80,"T2.5"}; --Aspect of Seradane
+  [61203] = {50,"T2.5"}; --Libram of the Dreamguard
+  [61204] = {50,"T2.5"}; --Totem of the Stonebreaker
+  [61205] = {50,"T2.5"}; --Ring of Nature's Duality
+  [61206] = {50,"T2.5"}; --Robe of the Dreamways
+  [61207] = {50,"T2.5"}; --Jadestone Helmet
+  [61208] = {80,"T2.5"}; --Staff of the Dreamer
+  [61209] = {50,"T2.5"}; --Shard of Nightmare
+  [61210] = {50,"T2.5"}; --Veil of Nightmare
+  [61211] = {50,"T2.5"}; --Sandals of Lucidity
+  [61212] = {50,"T2.5"}; --Sanctum Bark Wraps
+  [61213] = {50,"T2.5"}; --Talonwind Gautlets
+  [61214] = {50,"T2.5"}; --Mantel of the Wakener
+  [61215] = {50,"T2.5"}; --Head of Solnius
+  [61237] = {80,"T2.5"}; --Mallet of the Awakening  
+  [61238] = {80,"T2.5"}; --Scaleshield of Emerald Flight  
+  [61239] = {50,"T2.5"}; --Ancient Jade Leggings
+  [61444] = {20,"T2.5"}; --Smoldering Dream Essence
+  [61448] = {80,"T2.5"}; --Axe of Dormant Slumber
+  [61522] = {50,"T2.5"}; --Choker of the Emerald Lord
+  [61523] = {80,"T2.5"}; --Crystal Sword of the Blossom
+  [61524] = {50,"T2.5"}; --Naturecaller's Tunic
+  [61525] = {80,"T2.5"}; --Nature's Call
+  [61526] = {50,"T2.5"}; --Jadestone Protector
+  [61527] = {50,"T2.5"}; --Breath of Solnius
+  [61455] = {50,"T2.5"}; --Idol of the Emerald Rot
+  [61652] = {80,"T2.5"}; --Claw of Erennius
+  [84500] = {80,"T2.5"}; --Lucid Nightmare
+  [84501] = {50,"T2.5"}; --Corrupted Reed
+  [84502] = {50,"T2.5"}; --Verdant Dreamer's Boots
+  [84503] = {80,"T2.5"}; --Nature's Gift
+  [84504] = {50,"T2.5"}; --Lasher's Whip
+  [84505] = {50,"T2.5"}; --Infused Wildthorn Bracers
+  [84506] = {60,"T2.5"}; --Sleeper's Ring
+  [84509] = {80,"T2.5"}; --Emerald Rod
+
     ----------------------
     --- Blackwing Lair ---
     ----------------------
