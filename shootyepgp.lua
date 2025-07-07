@@ -461,8 +461,8 @@ function sepgp:OnEnable() -- PLAYER_LOGIN (2)
   --table.insert(sepgp_debug,{[date("%b/%d %H:%M:%S")]="OnEnable"})
   sepgp._playerLevel = UnitLevel("player")
   sepgp.extratip = (sepgp.extratip) or CreateFrame("GameTooltip","shootyepgp_tooltip",UIParent,"GameTooltipTemplate")
-  sepgp._versionString = GetAddOnMetadata("shootyepgp","Version")
-  sepgp._websiteString = GetAddOnMetadata("shootyepgp","X-Website")
+  sepgp._versionString = GetAddOnMetadata("shootyepgp-traveler","Version")
+  sepgp._websiteString = GetAddOnMetadata("shootyepgp-traveler","X-Website")
   
   if (IsInGuild()) then
     if (GetNumGuildMembers()==0) then

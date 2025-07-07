@@ -3,8 +3,6 @@ Guild Helper addon for EPGP loot system in WoW (1.12)
 
 EDITED for < Traveler > guild Tel'Abim - Turtle WoW
 
-Rename the downloaded folder to shootyepgp for the addon to work
-
 ## setup
 shootyepgp requires some modifications to guild permissions for officer notes by the guild leader.  
 
