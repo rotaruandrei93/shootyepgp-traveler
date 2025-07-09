@@ -103,7 +103,7 @@ local prices = {
   [55284] = {300,"T3.5"}; --Dragunovi's Sash of Domination
   [55286] = {100,"T3.5"}; --Ring of Holy Light
   [55508] = {0,"T3.5"}; --Brand of Karazhan
-  [92082] = {0."T3.5"}; --Felforged Dreadhound
+  [92082] = {0,"T3.5"}; --Felforged Dreadhound
 
     -----------------
     --- Naxxramas ---
