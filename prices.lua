@@ -1,4 +1,110 @@
 local prices = {
+    ------------
+    ---Kara40---
+    ------------
+
+  [55078] = {0,"T3.5"}; --Ley-attuned Chocker
+  [55084] = {150,"T3.5"}; --Torn Wings of Midnight
+  [55081] = {0,"T3.5"}; --Manadrenched Feather Slippers
+  [55285] = {120,"T3.5"}; --Crite's Holy Hands
+  [55079] = {200,"T3.5"}; --Ravenkeeper's Frenzied Embrace
+  [55080] = {350,"T3.5"}; --Bloodmoon, Sickle of the Murderous Flight
+  [55082] = {100,"T3.5"}; --Idol of Laceration
+  [55083] = {350,"T3.5"}; --Crown of the Wildpack
+  [55086] = {0,"T3.5"}; --Magehunter Belt
+  [55099] = {100,"T3.5"}; --Leystreel Legplates
+  [55089] = {250,"T3.5"}; --Bands of the Surgebreaker
+  [55507] = {250,"T3.5"}; --Choker of Terminal Arcanum
+  [55085] = {300,"T3.5"}; --Magispark Leggings
+  [55087] = {400,"T3.5"}; --Jewel of Wild Magics
+  [55090] = {100,"T3.5"}; --Scaleshield of Azure Flight
+  [55091] = {250,"T3.5"}; --Loop of Infused Renewal
+  [41403] = {0,"T3.5"}; --Enchanted Amethyst
+  [55092] = {0,"T3.5"}; --Manahide Slippers
+  [55095] = {200,"T3.5"}; --Cloak of the Bloody Ravager
+  [55096] = {250,"T3.5"}; --Phase Shifting Crossbow
+  [55279] = {200,"T3.5"}; --Branch of Resolute Defence
+  [55093] = {400,"T3.5"}; --Remains of Overwhelming Power
+  [55106] = {200,"T3.5"}; --Bindings of Contained Magic
+  [55097] = {0,"T3.5"}; --Choker of Chromatic Power
+  [55098] = {150,"T3.5"}; --Gloves of Nourishment
+  [55108] = {350,"T3.5"}; --Dreadslayer Shoulderblades
+  [55109] = {50,"T3.5"}; --Legwraps of Meticulous Planning
+  [55276] = {300,"T3.5"}; --Forgotten Raven's Mallet
+  [55110] = {0,"T3.5"}; --Libram of the Eternal Tower
+  [55107] = {300,"T3.5"}; --Gloves of Leyline Convergence
+  [55111] = {400,"T3.5"}; --Eye of Dormant Corruption
+  [55112] = {150,"T3.5"}; --Pendant of Forgiven Mistakes
+  [55094] = {300,"T3.5"}; --Medivh's Hindsight
+  [55088] = {20,"T3.5"}; --Dragonclaw Gauntlets
+  [55100] = {350,"T3.5"}; --Checkmate
+  [55101] = {400,"T3.5"}; --King's Edict
+  [55103] = {250,"T3.5"}; --Royal Seal of Greymane
+  [55102] = {350,"T3.5"}; --Insomnius' Retribution
+  [55104] = {200,"T3.5"}; --Pawn's Advance
+  [55105] = {300,"T3.5"}; --Bishop's Reverence
+  [55274] = {150,"T3.5"}; --Chain-Cloak of the Rookguard
+  [55113] = {250,"T3.5"}; --Dreadslayer Horns
+  [55114] = {100,"T3.5"}; --Totem of Broken Earth
+  [55115] = {500,"T3.5"}; --Riftcarver's Implement
+  [55116] = {600,"T3.5"}; --Raka'shishi, Spear of the Adrift Hunt
+  [55117] = {300,"T3.5"}; --Girdle of the Faded Primals
+  [55118] = {200,"T3.5"}; --Kum'ischa's Tattered Drape
+  [55119] = {350,"T3.5"}; --Forgotten Hide Helm
+  [55127] = {600,"T3.5"}; --Shar'tateth, the Shattered Edge
+  [55129] = {400,"T3.5"}; --Desecration
+  [55128] = {400,"T3.5"}; --Comet Signaller
+  [55130] = {150,"T3.5"}; --Wristwraps of Exiled Radiance
+  [55131] = {400,"T3.5"}; --Shieldrender Talisman
+  [55132] = {150,"T3.5"}; --Pendant of Purified Demon’s Blood
+  [55506] = {350,"T3.5"}; --Worldbreaker Girdle
+  [55510] = {250,"T3.5"}; --Fragments of Aldrach
+  [55511] = {250,"T3.5"}; --Hellflame
+  [55120] = {400,"T3.5"}; --Al'Kazeth, Claw of Ruptured Elements
+  [55121] = {200,"T3.5"}; --Bulwark of Enduring Earth
+  [55122] = {350,"T3.5"}; --Earthquake Leggings
+  [55123] = {200,"T3.5"}; --Loop of Hardened Slate
+  [55124] = {400,"T3.5"}; --Pure Jewel of Draenor
+  [55125] = {350,"T3.5"}; --Handwraps of Dead Winds
+  [55126] = {250,"T3.5"}; --Mandtle of the Drifting Stars
+  [55351] = {0,"T3.5"}; --Turalyon’s Hope
+  [55353] = {350,"T3.5"}; --Mephistroth’s Cunning
+  [55356] = {300,"T3.5"}; --Netherwrought Bracers
+  [55513] = {350,"T3.5"}; --Tunic of Demonic Deception
+  [55357] = {300,"T3.5"}; --Sash of the Grand Betrayal
+  [55346] = {500,"T3.5"}; --Rain of Spiders
+  [55347] = {500,"T3.5"}; --Thunderfall, Stormhammer of the Chief Thane
+  [55348] = {600,"T3.5"}; --Kirel’narak, the Death Sentence
+  [55512] = {350,"T3.5"}; --Forgotten Hide Pauldrons
+  [55349] = {250,"T3.5"}; --Nethraka, Wing of Oblivion
+  [55350] = {250,"T3.5"}; --Censer of Soulwarding
+  [55352] = {200,"T3.5"}; --Cloak of Rapid Regeneration
+  [55354] = {350,"T3.5"}; --Khadgar’s Guidance
+  [55355] = {350,"T3.5"}; --Memory of the Last Guardian
+  [55579] = {350,"T3.5"}; --Hearth of Mephistroth
+  [55483] = {250,"T3.5"}; --Ethereal Boots of Conquest
+  [55484] = {250,"T3.5"}; --Ethereal Boots of Ascendancy
+  [55485] = {250,"T3.5"}; --Shifting Mantle of Conquest
+  [55486] = {250,"T3.5"}; --Shifting Mantle of Ascendancy
+  [55487] = {250,"T3.5"}; --Fractured Crown of Conquest
+  [55488] = {250,"T3.5"}; --Fractured Crown of Ascendancy
+  [55489] = {250,"T3.5"}; --Brutal Leggings of Conquest
+  [55490] = {250,"T3.5"}; --Brutal Leggings of Ascendancy
+  [55491] = {250,"T3.5"}; --Nathrezim Armor of Treachery
+  [55492] = {250,"T3.5"}; --Nathrezim Armor of Deceit
+  [55482] = {350,"T3.5"}; --Ephemeral Pendant
+  [55275] = {400,"T3.5"}; --Silvers of Nullification
+  [55277] = {300,"T3.5"}; --The End of All Ambitions
+  [55278] = {100,"T3.5"}; --Ques’ Gauntlets of Precision
+  [55280] = {100,"T3.5"}; --Boots of Elemental Fury
+  [55281] = {100,"T3.5"}; --Gauntlets of Elemental Fury
+  [55282] = {0,"T3.5"}; --Boots of the Grand Crusader
+  [55283] = {0,"T3.5"}; --Gauntlets of the Grand Crusader
+  [55284] = {300,"T3.5"}; --Dragunovi's Sash of Domination
+  [55286] = {100,"T3.5"}; --Ring of Holy Light
+  [55508] = {0,"T3.5"}; --Brand of Karazhan
+  [92082] = {0."T3.5"}; --Felforged Dreadhound
+
     -----------------
     --- Naxxramas ---
     -----------------
@@ -213,7 +319,8 @@ local prices = {
   [23665] = {48,"T3"}; --Leggings of Elemental Fury
   [23666] = {48,"T3"}; --Belt of the Grand Crusader
   [23667] = {48,"T3"}; --Spaulders of the Grand Crusader
-  [23668] = {48,"T3"}; --Leggings of the Grand Crusader 
+  [23668] = {48,"T3"}; --Leggings of the Grand Crusader
+  [36666] = {0,"T3"}; --Plagued Riding Spider
 
     ---------------------------
     --- Temple of Ahn'Qiraj ---
@@ -394,6 +501,7 @@ local prices = {
   [23557] = {128,"T2.5"}; --Larvae of the Great Worm
   [23558] = {24,"T2.5"}; --The Burrower's Shell
   [23570] = {80,"T2.5"}; --Jom Gabbar
+  [36550] = {0,"T2.5"}; --Spotted Qiraji Battle Tank
 
     -----------------------
     --- Emerald Sanctum ---
@@ -591,6 +699,7 @@ local prices = {
   [19438] = {48,"T2"}; --Ringo's Blizzard Boots
   [19439] = {4,"T2"}; --Interlaced Shadow Jerkin
   [20383] = {40,"T2"}; --Head of Broodlord Lashlayer
+  [36551] = {0,"T2"}; --Black Drake
 
     -------------------
     --- Molten Core ---
@@ -731,6 +840,7 @@ local prices = {
   [19145] = {42,"T1"}; --Robe of Volatile Power
   [19146] = {8,"T1"}; --Wristguards of Stability
   [19147] = {8,"T1"}; --Ring of Spell Power
+  [92080] = {0,"T1"}; --Molten Corehound
 
     ---------------------
     --- Single Bosses ---
