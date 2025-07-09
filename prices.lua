@@ -1,7 +1,7 @@
 local prices = {
-    ------------
-    ---Kara40---
-    ------------
+    ----------------------------
+    --- Upper Karazhan Halls ---
+    ----------------------------
 
   [55078] = {0,"T3.5"}; --Ley-attuned Chocker
   [55084] = {150,"T3.5"}; --Torn Wings of Midnight
